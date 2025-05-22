@@ -37,8 +37,6 @@ This project was developed collaboratively by a team of four B.Tech students as 
 
 ## 📱 App Demo (Screenshots)
 
-> Insert the screenshots in the folder `/screenshots` and display them like this:
-
 | Home | Login Type |
 |-------------|-----------------|
 | ![Home](/assets/ss1.jpg) | ![Login](/assets/ss2.jpg) 
