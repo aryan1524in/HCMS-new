@@ -43,7 +43,7 @@ This project was developed collaboratively by a team of four B.Tech students as 
 |-------------|-----------------|
 | ![Home](/assets/ss1.jpg) | ![Login](/assets/ss2.jpg) 
 
----
+<!-- ---
 
 ## 🗂️ Project Structure
 hcms/
@@ -57,7 +57,7 @@ hcms/
 ├── package.json # Dependencies and scripts
 └── README.md # Project documentation
 
----
+--- -->
 
 
 ---
